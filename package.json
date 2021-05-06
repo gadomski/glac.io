@@ -16,7 +16,7 @@
     "xhr-browserify": "github:gadomski/xhr-browserify#a275949"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.3.0",
     "grunt-cli": "^0.1.13",
     "grunt-gh-pages": "^0.9.1",
     "grunt-gitinfo": "^0.1.6",
